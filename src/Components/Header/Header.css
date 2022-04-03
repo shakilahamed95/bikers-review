@@ -1,0 +1,9 @@
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    margin-right: 30px;
+    text-decoration: none;
+}
