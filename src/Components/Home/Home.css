@@ -23,4 +23,12 @@
     color: white;
     background-color: #0a2fc3;
     border-radius: 5px;
+    margin-bottom: 50px;
+    text-decoration: none;
+}
+
+.review-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
 }

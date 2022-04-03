@@ -1,0 +1,15 @@
+.single-review {
+    background-color: rgb(119, 190, 190);
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 380px;
+    margin-bottom: 40px;
+}
+
+
+.single-review img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
