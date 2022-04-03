@@ -1,10 +1,10 @@
 # Bikers review
 
- [Live Link](https://biker-review.netlify.app/reviews)
+ [Live Link](https://biker-review.netlify.app/)
 
 
 
- [https://biker-review.netlify.app/reviews](https://biker-review.netlify.app/reviews)
+ [https://biker-review.netlify.app/](https://biker-review.netlify.app/)
 
 
 
