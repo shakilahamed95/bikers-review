@@ -29,7 +29,7 @@ const Home = () => {
             </div>
 
             <div className='customer-review'>
-                <h1>Customer Review</h1>
+                <h1>Customer Review :{reviews.length}</h1>
                 <div className='review-container'>
                     {
                         reviews.map(review => <SingleReview
