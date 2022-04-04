@@ -3,3 +3,8 @@
     grid-template-columns: repeat(2, 1fr);
     margin-top: 50px;
 }
+
+.header {
+    margin-right: 100px;
+    color: #FF4040;
+}

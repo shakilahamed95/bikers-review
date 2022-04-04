@@ -44,13 +44,14 @@ const Dasboard = () => {
     return (
         <div className='chart-container'>
             <div>
+                <h4 className='header'>Month Wise Sell</h4>
                 <LineChart width={600} height={300} data={data} >
                     <CartesianGrid strokeDasharray="3 3"></CartesianGrid>
                     <XAxis dataKey='month'></XAxis>
                     <YAxis></YAxis>
                     <Tooltip></Tooltip>
                     <Legend verticalAlign="bottom" height={36}></Legend>
-                    <Line name='Month Wise Sell' type="monotone" dataKey="sell" stroke="#8884d8" />
+                    <Line name='Sell' type="monotone" dataKey="sell" stroke="#FF4040" />
                 </LineChart>
             </div>
 
@@ -76,6 +77,7 @@ const Dasboard = () => {
                 </AreaChart>
             </div>
             <div>
+                <h4 className='header'>Investment Vs Revenue</h4>
                 <BarChart width={600} height={300} data={data}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />

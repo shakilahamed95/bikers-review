@@ -5,8 +5,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className='header-part'>
-            <h1> Welcome to Bikers review</h1>
+        <div>
             <nav>
                 <CustomLink to='/'> Home</CustomLink>
                 <CustomLink to='reviews'> Reviews</CustomLink>
