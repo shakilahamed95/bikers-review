@@ -6,7 +6,7 @@ const NotFound = () => {
     return (
         <div>
             <img className='not-found' src={notFound} alt="" />
-            <h1>There is no webpage in this addres !!!!</h1>
+            <h1>There is no webpage in this addres .....</h1>
         </div>
     );
 };
