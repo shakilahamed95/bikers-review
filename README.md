@@ -14,4 +14,4 @@
 
 - We have 5 different link with 5 different route ( Home ,Reviews,Dashboard,Blogs,About)
 
-- We showed bike image and description in our home page with 3 customer review. More review are available in review page.We also provides 2 grph in our Dashboard.
+- We showed bike image and description in our home page with 3 customer review. More review are available in review page.We also provides 3 grph in our Dashboard.
