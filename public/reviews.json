@@ -40,5 +40,26 @@
         "text": "One of the best i think. Though i faced a littile problem with it but its ok .. Try it",
         "ratings": "4 stars",
         "userImage": "https://www.hohenstein.com.bd/fileadmin/_processed_/a/9/csm_Tushar_Shariful_Islam_6fc772030b.jpg"
+    },
+    {
+        "id": 7,
+        "user": "Tarek",
+        "text": "Try this one !!! You will get the best bike ride experience",
+        "ratings": "4.5 stars",
+        "userImage": "https://i.pinimg.com/736x/26/5d/c9/265dc99bb86fb280b561357ddebd708b.jpg"
+    },
+    {
+        "id": 8,
+        "user": "Humayun",
+        "text": "One of the worst bike i have ever seen.. The engine is  to much week",
+        "ratings": "2 stars",
+        "userImage": "https://swall.teahub.io/photos/small/358-3588018_awesome-smart-boys-in-bangladesh-sitting.jpg"
+    },
+    {
+        "id": 9,
+        "user": "Kader",
+        "text": "My first bike. Still i love it.",
+        "ratings": "5 stars",
+        "userImage": "https://cdn.pixabay.com/photo/2020/04/25/09/02/boy-5089981_960_720.jpg"
     }
 ]
