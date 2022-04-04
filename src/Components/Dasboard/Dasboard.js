@@ -43,7 +43,7 @@ const Dasboard = () => {
     ]
     return (
         <div className='chart-container'>
-            <div>
+            <div className='single-chart'>
                 <h4 className='header'>Month Wise Sell</h4>
                 <LineChart width={600} height={300} data={data} >
                     <CartesianGrid strokeDasharray="3 3"></CartesianGrid>
@@ -55,7 +55,7 @@ const Dasboard = () => {
                 </LineChart>
             </div>
 
-            <div>
+            <div className='single-chart'>
                 <AreaChart width={600} height={300} data={data}>
                     <defs>
                         <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
@@ -76,7 +76,7 @@ const Dasboard = () => {
                     <Area type="monotone" dataKey="revenue" stroke="#82ca9d" fillOpacity={1} fill="url(#colorPv)" />
                 </AreaChart>
             </div>
-            <div>
+            <div className='single-chart'>
                 <h4 className='header'>Investment Vs Revenue</h4>
                 <BarChart width={600} height={300} data={data}>
                     <CartesianGrid strokeDasharray="3 3" />

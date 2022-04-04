@@ -28,7 +28,7 @@ const Home = () => {
                 </div>
             </div>
 
-            <div customer-review>
+            <div className='customer-review'>
                 <h1>Customer Review</h1>
                 <div className='review-container'>
                     {
