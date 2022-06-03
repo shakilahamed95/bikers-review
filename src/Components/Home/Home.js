@@ -16,7 +16,7 @@ const Home = () => {
         <div>
             <div>
                 <h1> Bikers review</h1>
-                <h2>The best place to know about your dream bike</h2>
+                <h2>The best Website to know about your dream bike</h2>
             </div>
             <div className='home-container'>
                 <img className='img-container' src={bike} alt="" />
